@@ -1,3 +1,21 @@
+The project mimics amazon website
+The project can be viewed here-->https://clone-9d8d4.web.app/
+
+The project can be cloned and run as following:
+i)Run backend after navigating to the functions as --> firebase emulators:start ii) npm start(Open http://localhost:3000 to view it in your browser.)
+
+This project uses React.js , Firebase , and Stripe.
+----------------------------------------------------------------+++++++++++++++++++++++++++++++++++++++++______________________-
+
+firebase login should be via a cmd, the login might not work in powershell
+after npm run build, any change in the application will have to updated using the npm run build command
+firebase login -->firebase init--> Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys --> use existing project --> public directory(build)--> npm run build(be in directory)
+--> firebase deploy
+
+repeat npm run build and firebase deploy everytime a new change is added to the project
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,15 +62,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 
-
-
-
-
-
-
-The project mimics amazon website
-The project can be viewed here-->
-Hosting URL:https://clone-9d8d4.web.app/
 
 The project can be cloned and run as following:
 i)Run backednd after navigating to the functions as --> firebase emulators:start ii) npm start(Open http://localhost:3000 to view it in your browser.)
