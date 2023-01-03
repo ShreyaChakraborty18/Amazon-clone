@@ -50,6 +50,9 @@ https://clone-9d8d4.web.app/
 
 ![image](https://user-images.githubusercontent.com/87025870/210317729-9be7a417-beab-4b0e-a2a7-7908d2803eaa.png)
 
+![image](https://user-images.githubusercontent.com/87025870/210319210-263d6f0d-6bcb-47ec-85b4-f3449cb44884.png)
+
+
 
 ### Confirmation Page -
 
