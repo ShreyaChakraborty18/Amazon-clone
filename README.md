@@ -23,7 +23,7 @@ Dependencies used in the project are as follows
 
 [![AGPL License](https://img.shields.io/badge/dependency-Javascript-orange)](http://www.javascript.com)
 
-[![AGPL License](https://img.shields.io/badge/UI-Material--UI-yellowgreen)](http://www.materialui.com)
+[![AGPL License](https://img.shields.io/badge/UI-Material--UI-yellowgreen)](http://www.mui.com)
 
 
 ## Demo
